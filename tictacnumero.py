@@ -16,12 +16,12 @@ print("      \ \     __\ \___  \ `-_____      \ \  | |   \ \ \ `-_____   ")
 print("       \_\    \_______\   `-_____\      \_\ |_|    \_\  `-_____\  ")
 print("                                ___                               ")
 print("                               /__/                               ")
-print("__   __  __   __  __     ___  ______  ______       ___    ______  ")
-print("\ `- \ \ \ \  \ \ \ `-,  |  \ \  ___\ \  __ `,    / __ `\ \    |  ")
-print(" \  `-\ \ \ \  \ \ \   `-|   \ \ \____ \ \_)  )  (  | \  \ \   |  ")
-print("  \      \ \ \  \ \ \         \ \  ___\ \  _  \   \  \ \  \ \__|  ")
-print("   \ \-,  \ \ \__\ \ \ \-,  |\ \ \ \____ \ \ `- `, \  \_|  )  __  ")
-print("    \_\ `-_\ `-____/  \_\ `-| \_\ \_____\ \_\  `-_\  `-___/   \_\ ")
+print("__   __  __   __  __     ___  ______  ______       _    ______  ")
+print("\ `- \ \ \ \  \ \ \ `-,  |  \ \  ___\ \  __ `,    / _`\ \    |  ")
+print(" \  `-\ \ \ \  \ \ \   `-|   \ \ \____ \ \_)  )  ( | \ \ \   |  ")
+print("  \      \ \ \  \ \ \         \ \  ___\ \  _  \   \ \ \ \ \__|  ")
+print("   \ \-,  \ \ \__\ \ \ \-,  |\ \ \ \____ \ \ `- `, \ \_| )  __  ")
+print("    \_\ `-_\ `-____/  \_\ `-| \_\ \_____\ \_\  `-_\  `-_/   \_\ ")
 print()
 print()
 while count>6:
@@ -43,9 +43,9 @@ while count>0:
     count=count-1
 
 
-line1.append("  ")
-line2.append("  ")
-line3.append("  ")
+line1.append("        ")
+line2.append("        ")
+line3.append("        ")
 
 count=9
 while count>6:
@@ -67,9 +67,9 @@ while count>0:
     count=count-1
 
 
-line1.append("  ")
-line2.append("  ")
-line3.append("  ")
+line1.append("        ")
+line2.append("        ")
+line3.append("        ")
 
 count=9
 while count>6:
@@ -124,9 +124,9 @@ while count>0:
     count=count-1
 
 
-line1.append("  ")
-line2.append("  ")
-line3.append("  ")
+line1.append("        ")
+line2.append("        ")
+line3.append("        ")
 
 count=9
 while count>6:
@@ -148,9 +148,9 @@ while count>0:
     count=count-1
 
 
-line1.append("  ")
-line2.append("  ")
-line3.append("  ")
+line1.append("        ")
+line2.append("        ")
+line3.append("        ")
 
 count=9
 while count>6:
@@ -205,9 +205,9 @@ while count>0:
     count=count-1
 
 
-line1.append("  ")
-line2.append("  ")
-line3.append("  ")
+line1.append("        ")
+line2.append("        ")
+line3.append("        ")
 
 count=9
 while count>6:
@@ -229,9 +229,9 @@ while count>0:
     count=count-1
 
 
-line1.append("  ")
-line2.append("  ")
-line3.append("  ")
+line1.append("        ")
+line2.append("        ")
+line3.append("        ")
 
 count=9
 while count>6:
@@ -286,9 +286,9 @@ while count>0:
     count=count-1
 
 
-line1.append("  ")
-line2.append("  ")
-line3.append("  ")
+line1.append("        ")
+line2.append("        ")
+line3.append("        ")
 
 count=9
 while count>6:
@@ -310,9 +310,9 @@ while count>0:
     count=count-1
 
 
-line1.append("  ")
-line2.append("  ")
-line3.append("  ")
+line1.append("        ")
+line2.append("        ")
+line3.append("        ")
 
 count=9
 while count>6:
