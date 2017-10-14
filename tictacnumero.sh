@@ -1,6 +1,6 @@
 #! /bin/bash
 cd ~/Desktop
-curl https://rondnelson99.github.io/tictacnumero/tictacnumero.py > tictacnumero.py
+curl -s https://rondnelson99.github.io/tictacnumero/tictacnumero.py > tictacnumero.py
 let loop=1
 echo "How many sheets would you like?"
 read sheets
