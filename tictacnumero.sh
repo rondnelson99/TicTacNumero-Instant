@@ -1,6 +1,8 @@
 #! /bin/bash
 cd ~/Desktop
-curl https://rondnelson99.github.io/tictacnumero/tictacnumero.py > tictacnumero.py
+version=`curl -s https://rondnelson99.github.io/tictacnumero/versionnumber`
+curl -s https://rondnelson99.github.io/tictacnumero/tictacnumero.py > tictacnumero.py
+echo "Welcome to rondnelson99's 'Tic Tac Numero!' generator "$version
 let loop=1
 echo "How many sheets would you like?"
 read sheets
